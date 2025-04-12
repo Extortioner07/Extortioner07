@@ -34,5 +34,5 @@ Email: shakti.chakma1234@gmail.com
 
 ### 📈 GitHub Stats 
 
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/Extortioner07/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperial-lord&layout=compact&langs_count=10)](https://github.com/Extortioner07/github-readme-stats)
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Extortioner07&count_private=true&show_icons=true)](https://github.com/Extortioner07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Extortioner07&layout=compact&langs_count=10)](https://github.com/Extortioner07/github-readme-stats)
